@@ -10,3 +10,12 @@ int main() {
         printf("Sum of digits: %d\n", sum);
     }
 }
+
+#Algorithm:
+Step 1 - Start
+Step 2 - Initialize: Declare variables for the number and the sum.
+Step 3 - Input: Prompt the user to enter a number.
+Step 4 - Sum Calculation:
+        Use a loop to calculate the sum of all numbers from 1 to the entered number.
+Step 5 - Output: Display the sum.
+Step 6 - End
