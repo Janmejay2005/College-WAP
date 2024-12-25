@@ -35,3 +35,16 @@ int main() {
     }
 
 }
+
+#Algorithm:
+Step 1 - Start
+Step 2 - Input: Declare variables for the two operands and the operator.
+Step 3 - Input the Operand and Operator: Prompt the user to enter two numbers and one operator.
+Step 4 - Switch Statement: Use a switch statement to determine the operation based on the operator entered by the user.
+        If the operator is +, perform addition.
+        If the operator is -, perform subtraction.
+        If the operator is *, perform multiplication.
+        If the operator is /, perform division.
+        For any other operator, print an error message.
+Step 5 - Output: Print the result of the operation.
+Step 6 - End
