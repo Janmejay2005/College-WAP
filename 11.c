@@ -38,9 +38,9 @@ int main() {
 
 #Algorithm:
 Step 1 - Start
-Step 2 - Input: Declare variables for the two operands and the operator.
-Step 3 - Input the Operand and Operator: Prompt the user to enter two numbers and one operator.
-Step 4 - Switch Statement: Use a switch statement to determine the operation based on the operator entered by the user.
+Step 2 - Declare variables for the two operands and the operator.
+Step 3 - Prompt the user to enter two numbers and one operator.
+Step 4 - Use a switch statement to determine the operation based on the operator entered by the user.
         If the operator is +, perform addition.
         If the operator is -, perform subtraction.
         If the operator is *, perform multiplication.
